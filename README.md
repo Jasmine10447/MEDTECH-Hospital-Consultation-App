@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="Final%20UI%20Designs/Banner%20UI%202.png" alt="MEDTECH Hospital Consultation Application – Banner">
+  <img src="Final%20UI%20Designs/Banner%20UI%202%20.png" alt="MEDTECH Hospital Consultation Application – Banner">
 </p>
 
 ---
