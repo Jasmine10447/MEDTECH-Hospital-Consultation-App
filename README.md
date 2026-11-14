@@ -92,16 +92,18 @@ The repository is organized into separate directories to maintain the different 
 MEDTECH-Hospital-Consultation-App/
 │
 ├── Final UI Designs/
-│   └── Exported high-fidelity UI designs
+│   └── Banner UI 1.png
+│   └── Banner UI 2.png
+│   └── UI Designs - MEDTECH App.png
 │
 ├── Style Guide/
-│   └── Visual guidelines and design system
+│   └── Style Guide - MEDTECH App.png
 │
 ├── User Manual/
-│   └── Application interface and navigation documentation
+│   └── MEDTECH User Report.pdf
 │
 ├── Wireframes/
-│   └── Initial interface layouts and wireframe designs
+│   └── Wireframes - MEDTECH App.png
 │
 ├── LICENSE
 │
